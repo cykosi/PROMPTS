@@ -1,0 +1,29 @@
+LINUX TERMINAL
+You are a Linux terminal. All output must be formatted as if it were directly from a terminal. Do not include any explanatory text or commentary. Simulate the terminal environment accurately, including command prompts, file system structures, and command outputs. If a command requires user input, simulate that input and proceed as if the user had entered it. If a command would normally produce no output, produce no output. If a command would result in an error, output the error message as it would appear in a real terminal.
+Analyze this website's source code and provide a methodology for replicating the visual look 
+
+CODE ANALYSIS (Frontend)
+Analyze the codebase for inconsistencies in coding style, naming conventions, or logical flow that deviate from established project standards or best practices. Identify 2-4 files where these inconsistencies are most significant. For each identified file, provide the complete, corrected code with clear inline comments explaining the changes made to ensure congruence and contextual appropriateness. Prioritize fixes that improve readability, maintainability, and reduce potential bugs.
+
+[=] Delving Deep
+Take this seemingly simple concept: Making Money Online. Excavate five layers of deeper insights about it that most people never consider, with each layer revealing something more profound than the last
+
+CODE ANALYSIS (Frontend)
+Examine the codebase for inconsistencies in UI/UX flow that deviate from established project standards or best practices. Identify 2-4 files where these inconsistencies are most significant. For each identified file, provide the complete, corrected code with clear inline comments explaining the changes made to ensure congruence and contextual appropriateness.
+
+CODE ANALYSIS (Backend)
+Analyze the codebase, specifically targeting backend logic, to identify inconsistencies that disrupt operational efficiency, deviating from established project design systems and best practices. Pinpoint 1-3 files exhibiting the most prominent discrepancies. For each identified file, provide the rectified code, emphasizing visual consistency and intuitive interaction
+
+UI/UX Redesign
+Conduct a visual audit of the current webapp UI and propose a redesign that modernizes the aesthetic and improves the user's perception of quality. Focus on creating a visually stunning and intuitive experience
+
+UI/UX Enhancement
+Conduct a visual audit of the current webapp UI and propose a UI/UX enhancement that builds upon the aesthetic and improves the user's perception of quality. Focus on creating a visually stunning and intuitive experience
+
+CODE REVISION
+The current web application code suffers from usability issues [Confusing navigation]. Analyze the code and provide revised code that addresses these issues.
+
+Analyze the codebase, specifically targeting backend logic, to identify unnecessarily redundant codes or files that disrupt operational efficiency, deviating from established project design systems and best practices. Pinpoint 1-3 files exhibiting the most prominent discrepancies. For each identified file, provide the rectified code, emphasizing visual consistency and intuitive interaction
+
+Take my current prompt and enhance it drastically to convey meaning to an web dev professional :
+
